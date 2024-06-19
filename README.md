@@ -7,7 +7,7 @@
 </p>
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/72041260/196061582-254b141d-f36e-4b85-8d10-03668adcf79b.gif" />
+<img src="https://github.com/MirkaJuliet34/coderbyte_desafio_crew/issues/1#issue-2362983654" />
 </div>
 
 
